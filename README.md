@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RAIN-LX
+- 👋 Hi, I’m @RAIN-LX, but you can call me vio!
 - 👀 I’m interested in Arch Linux and Roblox
-- 🌱 I’m currently learning java and c++
+- 🌱 I’m currently learning c++
 - 📫 How to reach me: filothema @discord
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I'm an ES major
+- ⚡ Current Process: I'm an Environmental Science major
 
 <!---
 RAIN-LX/RAIN-LX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
